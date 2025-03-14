@@ -1,0 +1,8 @@
+estado(char)Ceará;
+codigo da carta(char[])A01;
+nome da cidade(char[])fortaleza;
+população(int)20000;
+área em km(float)100000;
+pib(float)10000;
+numero de pontos turiscos(int)5;
+
